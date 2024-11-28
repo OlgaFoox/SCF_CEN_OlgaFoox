@@ -1,0 +1,30 @@
+{
+    "name": "Draw & Chat PWA",
+    "short_name": "DeshDrawChat",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#317EFB",
+    "icons": [
+        {
+            "src": "DeshCapstone.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "DeshCapstone1.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "DeshCapstone2.png",
+            "sizes": "320x320",
+            "type": "image/png",
+            "purpose": "any",
+            "label": "DrawChat",
+            "form_factor": "wide"
+        }
+    ]
+}
